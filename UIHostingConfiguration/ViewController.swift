@@ -67,7 +67,3 @@ extension ViewController: UICollectionViewDelegate, UICollectionViewDataSource {
         return cell
     }
 }
-
-final class FooCell: UICollectionViewCell {
-    weak var delegate: FooCellDelegate?
-}
