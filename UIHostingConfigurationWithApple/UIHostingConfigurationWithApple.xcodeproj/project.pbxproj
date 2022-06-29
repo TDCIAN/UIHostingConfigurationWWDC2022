@@ -15,6 +15,7 @@
 		1E7972E3286B393500D16399 /* MainMenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E7972E2286B393500D16399 /* MainMenuViewController.swift */; };
 		1E7972EA286B3A7F00D16399 /* HostingControllerExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E7972E9286B3A7F00D16399 /* HostingControllerExample.swift */; };
 		1E7972ED286B457D00D16399 /* HeartRateCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E7972EC286B457D00D16399 /* HeartRateCellView.swift */; };
+		1E9C2802286D0FAF00D0676B /* HealthCategoryCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E9C2801286D0FAF00D0676B /* HealthCategoryCellView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		1E7972E2286B393500D16399 /* MainMenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainMenuViewController.swift; sourceTree = "<group>"; };
 		1E7972E9286B3A7F00D16399 /* HostingControllerExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HostingControllerExample.swift; sourceTree = "<group>"; };
 		1E7972EC286B457D00D16399 /* HeartRateCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeartRateCellView.swift; sourceTree = "<group>"; };
+		1E9C2801286D0FAF00D0676B /* HealthCategoryCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HealthCategoryCellView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 			isa = PBXGroup;
 			children = (
 				1E7972EC286B457D00D16399 /* HeartRateCellView.swift */,
+				1E9C2801286D0FAF00D0676B /* HealthCategoryCellView.swift */,
 			);
 			path = SwiftUIViews;
 			sourceTree = "<group>";
@@ -186,6 +189,7 @@
 			files = (
 				1E7972E3286B393500D16399 /* MainMenuViewController.swift in Sources */,
 				1E7972EA286B3A7F00D16399 /* HostingControllerExample.swift in Sources */,
+				1E9C2802286D0FAF00D0676B /* HealthCategoryCellView.swift in Sources */,
 				1E7972CF286B332A00D16399 /* AppDelegate.swift in Sources */,
 				1E7972ED286B457D00D16399 /* HeartRateCellView.swift in Sources */,
 				1E7972D1286B332A00D16399 /* SceneDelegate.swift in Sources */,
