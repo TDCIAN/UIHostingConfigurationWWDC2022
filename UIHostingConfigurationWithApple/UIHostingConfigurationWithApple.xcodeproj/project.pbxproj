@@ -14,6 +14,7 @@
 		1E7972DB286B332C00D16399 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E7972D9286B332C00D16399 /* LaunchScreen.storyboard */; };
 		1E7972E3286B393500D16399 /* MainMenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E7972E2286B393500D16399 /* MainMenuViewController.swift */; };
 		1E7972EA286B3A7F00D16399 /* HostingControllerExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E7972E9286B3A7F00D16399 /* HostingControllerExample.swift */; };
+		1E7972ED286B457D00D16399 /* HeartRateCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E7972EC286B457D00D16399 /* HeartRateCellView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		1E7972DC286B332C00D16399 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1E7972E2286B393500D16399 /* MainMenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainMenuViewController.swift; sourceTree = "<group>"; };
 		1E7972E9286B3A7F00D16399 /* HostingControllerExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HostingControllerExample.swift; sourceTree = "<group>"; };
+		1E7972EC286B457D00D16399 /* HeartRateCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeartRateCellView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		1E7972E6286B3A3600D16399 /* SwiftUIViews */ = {
 			isa = PBXGroup;
 			children = (
+				1E7972EC286B457D00D16399 /* HeartRateCellView.swift */,
 			);
 			path = SwiftUIViews;
 			sourceTree = "<group>";
@@ -184,6 +187,7 @@
 				1E7972E3286B393500D16399 /* MainMenuViewController.swift in Sources */,
 				1E7972EA286B3A7F00D16399 /* HostingControllerExample.swift in Sources */,
 				1E7972CF286B332A00D16399 /* AppDelegate.swift in Sources */,
+				1E7972ED286B457D00D16399 /* HeartRateCellView.swift in Sources */,
 				1E7972D1286B332A00D16399 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
